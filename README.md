@@ -29,14 +29,7 @@ An interactive and colorful memory game built using **HTML, CSS, and JavaScript*
 4. The sequence grows each round.
 5. If you click the wrong tile — game over!
 
----
 
-## 📷 Screenshots (Add manually in GitHub later)
-
-> 🔲 Add screenshots like:
-- Game start screen
-- During level play
-- Game over state
 
 ---
 
