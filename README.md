@@ -2,7 +2,9 @@
 
 An interactive and colorful memory game built using **HTML, CSS, and JavaScript**, inspired by the classic Simon Game. Test your memory by repeating the random sequence of glowing tiles — with increasing difficulty at every level.
 
----
+---PREVIEW:
+![image](https://github.com/user-attachments/assets/24bb2162-f875-4419-a99f-cb0050c8e2dd)
+
 
 ## ✨ Features
 
