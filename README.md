@@ -16,7 +16,7 @@ An interactive and colorful memory game built using **HTML, CSS, and JavaScript*
 
 ---
 
-## 📂 Project Structure
+
 
 
 ---
