@@ -1,3 +1,23 @@
+# 🎮 My Simon Game
+
+An interactive and colorful memory game built using **HTML, CSS, and JavaScript**, inspired by the classic Simon Game. Test your memory by repeating the random sequence of glowing tiles — with increasing difficulty at every level.
+
+---
+
+## ✨ Features
+
+- 🎨 Four colored tiles: red, green, blue, yellow
+- 🎵 Audio feedback for each tile
+- 🔁 Randomized sequence on each game start
+- 💥 Game over feedback with screen flash
+- ⌨️ Starts when user presses any key
+- 📈 Levels increase as you play
+- 🧠 Great for memory training and focus
+
+---
+
+## 📂 Project Structure
+
 
 ---
 
